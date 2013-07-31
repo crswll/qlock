@@ -1,4 +1,4 @@
 qlock
 =====
 
-A simple ass clock I did a few years back. Pretty much this: http://www.qlocktwo.com/
+A simple ass clock I did a few years back. I recreated [this clock](http://www.qlocktwo.com/) in Javascript / HTML / CSS.
