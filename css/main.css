@@ -1,0 +1,17 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,  table, caption,  tbody, tfoot, thead, tr, th, td {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+body { margin: 0; line-height:1.5;}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {text-align:left;font-weight:normal;}
+table, td, th {vertical-align:middle;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a img {border:none;}
+table { font-size: 100%; }
+body {font-size:75%;color:#222;background:#fff;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;}
+
+body { background-color: #000; color: #171717; font-size: 1.3em; }
+
+
+#qlock { width: 390px; margin: 0 auto; padding: 10px 0; overflow: hidden; }
+#qlock span.active { color: #B404AE; text-shadow: #444 0 0 5px; }
+#qlock span.l { display: block; float: left; width: 30px; padding: 10px 0; text-align: center; }
